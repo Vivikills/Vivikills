@@ -1,9 +1,8 @@
 ## Hi there 👋 I'm Vika
-<!--
-**Vivikills/Vivikills** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 I'm a beginner analyst and here are my pet projects and study tasks
 
-## 
+## Technical steck:
 - I'm a beginner analyst 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
